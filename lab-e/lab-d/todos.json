@@ -1,0 +1,51 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "deadline": "1900-01-01",
+      "completed": false,
+      "archived": false
+    },
+    {
+      "title": "Laboratorium E",
+      "deadline": "2023-12-16",
+      "completed": true,
+      "archived": false,
+      "id": 2
+    },
+    {
+      "title": "Laboratorium F",
+      "deadline": "2023-12-16",
+      "completed": true,
+      "archived": true,
+      "id": 3
+    },
+    {
+      "title": "Laboratorium D",
+      "deadline": "2023-12-13",
+      "completed": true,
+      "archived": true,
+      "id": 4
+    },
+    {
+      "title": "ss",
+      "completed": false,
+      "archived": false,
+      "id": 5
+    },
+    {
+      "title": "sss",
+      "completed": false,
+      "archived": false,
+      "id": 6
+    },
+    {
+      "deadline": "2010-02-10",
+      "title": "daasd",
+      "completed": false,
+      "archived": false,
+      "id": 7
+    }
+  ]
+}

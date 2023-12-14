@@ -1,0 +1,22 @@
+container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 10px;
+}
+
+.new-task {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .new-task {
+    grid-template-columns: 1fr 1fr auto;
+  }
+}
+
+mat-card{
+  margin-bottom: 10px;
+}

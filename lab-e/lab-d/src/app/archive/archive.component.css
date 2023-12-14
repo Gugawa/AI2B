@@ -1,0 +1,16 @@
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 10px;
+}
+
+@media screen and (min-width: 768px) {
+  .tasks .task {
+    grid-template-columns: 3fr 1fr auto;
+    grid-template-areas: 'title deadline actions';
+  }
+}
+
+mat-card{
+  margin-bottom: 10px;
+}
